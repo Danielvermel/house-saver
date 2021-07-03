@@ -15,9 +15,6 @@
 <script>
     export default {
         props: ['cardsSection'],
-        mounted(){
-            console.log(this.cardsSection)
-        }
     }
 </script>
 
