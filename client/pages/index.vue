@@ -28,10 +28,6 @@ export default {
       smallCardInfo: smallCardSections
     };
   },
-
-  mounted(){
-      console.log(this.smallCardInfo)
-  }
 }
 </script>
 
