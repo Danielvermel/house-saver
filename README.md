@@ -25,9 +25,13 @@ This project uses the following technologies:
 <a id="project-preview"></a>
 
 ### Home (Page) 
+![project_10](https://user-images.githubusercontent.com/32749108/124388961-08e46100-dcdd-11eb-98d8-1ca6720eec77.jpg)
 
 ### Products (Page)
+<img width="1428" alt="Screenshot 2021-07-04 at 15 17 07" src="https://user-images.githubusercontent.com/32749108/124388904-cde22d80-dcdc-11eb-86a8-f336476d04f2.png">
 
 ### My Items (Page) 
+<img width="1424" alt="Screenshot 2021-07-04 at 15 17 45" src="https://user-images.githubusercontent.com/32749108/124388956-05e97080-dcdd-11eb-99d5-423096628d59.png">
 
 ### Individual Product (Page)
+<img width="1424" alt="Screenshot 2021-07-04 at 15 17 26" src="https://user-images.githubusercontent.com/32749108/124388934-f23e0a00-dcdc-11eb-9249-51776d044bcf.png">
