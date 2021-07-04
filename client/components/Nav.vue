@@ -7,15 +7,15 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active" @click="activateMenu">
+                <li class="nav-item" id="home">
                     <NuxtLink class="nav-link"  to="/">Home <span class="sr-only">(current)</span></NuxtLink>
                 </li>
-                <li class="nav-item" @click="activateMenu">
+                <li class="nav-item" id="products">
                     <NuxtLink class="nav-link" to="/products">Products</NuxtLink>
                 </li>
             </ul>
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item" @click="activateMenu">
+                <li class="nav-item" id="myItems">
                     <NuxtLink class="nav-link" to="/my-items">My Items</NuxtLink>
                 </li>
             </ul>
@@ -25,12 +25,6 @@
 
 <script>
     export default {
-        methods: {
-            activateMenu: function(e){
-                document.querySelectorAll('.active')[0].classList.remove('active')
-                e.target.classList.add('active');
-            }
-        }
     }
 </script>
 
