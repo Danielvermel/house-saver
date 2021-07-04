@@ -6,7 +6,7 @@
 
 ## Description
 
-In this project you can rent a variety of different fire extihuishers to help save your house. The Goal of this project was to learn the Nuxt.js framework.
+In this project, you can rent a variety of different fire extinguishers to help save your house. The Goal of this project was to learn the Nuxt.js framework.
   
 This project uses the following technologies:
 - HTML/CSS;
